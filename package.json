@@ -1,6 +1,6 @@
 {
-  "homepage": "https://adnanmojib.github.io/courses-react",
   "name": "courses",
+  "homepage": "https://adnanmojib.github.io/Courses-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
